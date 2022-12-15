@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(173, 180, 175);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+  }
+
+h2 {
+  font-size: 30px;
+  color: black;
+}
+img {
+  position: relative;
+  width: 24%;
+}
+
+h3 {
+  font-size: 30px;
+  color: black;
+}
+
+h4 {
+  font-size: 30px;
+  color:black;
+}
+
+h5 {
+  font-size: 30px;
+  color: black;
+}
